@@ -13,7 +13,7 @@ public class VariaveisConstantes {
 		
 		// Constantes
 		final int QUANTIDADE = 50;
-		final String TURMA = "Turma 79";
+		final String TURMA = "Turma 79"; 
 		final double AREA = 3.1415;
 		
 		System.out.print("Olá");

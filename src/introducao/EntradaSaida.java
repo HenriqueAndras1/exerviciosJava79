@@ -6,7 +6,7 @@ public class EntradaSaida {
 
 	public static void main(String[] args) {
 		
-		// Variaveis
+		// Variaveis 
 		String nome;
 		float temperatura;
 		float fahrenheit;
