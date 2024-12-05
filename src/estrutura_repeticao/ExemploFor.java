@@ -2,7 +2,7 @@ package estrutura_repeticao;
 
 import java.util.Scanner;
 
-public class ExemploFor {
+public class ExemploFor { 
 
 	public static void main(String[] args) {
 		 String nome;

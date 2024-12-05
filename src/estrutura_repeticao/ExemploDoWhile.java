@@ -2,7 +2,7 @@ package estrutura_repeticao;
 
 import java.util.Scanner;
 
-public class ExemploDoWhile {
+public class ExemploDoWhile { 
 
 	public static void main(String[] args) {
 

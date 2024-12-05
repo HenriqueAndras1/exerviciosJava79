@@ -2,7 +2,7 @@ package estrutura_repeticao;
 
 import java.util.Scanner;
 
-public class estrutura_repeticao {
+public class estrutura_repeticao {  
 
 	public static void main(String[] args) {
 
